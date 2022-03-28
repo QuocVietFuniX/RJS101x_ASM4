@@ -25,6 +25,7 @@ import { connect } from "react-redux";
 import { TransitionGroup, CSSTransition } from "react-transition-group";
 
 export const history = useHistory;
+
 const mapStateToProps = (state) => {
   return {
     staffs: state.staffs,

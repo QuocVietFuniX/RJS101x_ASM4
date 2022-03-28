@@ -135,8 +135,8 @@ class AddStaffForm extends Component {
       modalOpen: false,
       doB: "",
       startDate: "",
-      departmentId: "Dept01",
-      image: "/asset/images/alberto.png",
+      departmentId: "Dept02",
+      image: "/assets/images/alberto.png",
       touched: {
         doB: false,
         startDate: false
